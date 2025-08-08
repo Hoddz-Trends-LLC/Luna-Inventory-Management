@@ -2,6 +2,10 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 <img width="1473" height="515" alt="image" src="https://github.com/user-attachments/assets/c5a735ea-32dd-4896-921e-912ddf19cc93" />
 
+## Introducing Luna Inventory Management Tool! 
+
+🚀 Streamline your inventory tracking with this simple, effective, and intuitive web-based solution. Keep tabs on all your items effortlessly and boost your organization. Perfect for small businesses and personal use! #InventoryManagement #SmallBusiness #Organization #WebTool #LunaInventory
+
 
 ## Getting Started
 
